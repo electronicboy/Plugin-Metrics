@@ -36,9 +36,6 @@
     <modules>
         <module>mods/bukkit</module>
         <module>mods/bungee</module>
-        <module>mods/forge</module>
-        <module>mods/canary</module>
-        <module>mods/sponge</module>
         <module>mods/standalone</module>
     </modules>
 
